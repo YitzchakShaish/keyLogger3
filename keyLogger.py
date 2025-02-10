@@ -22,7 +22,7 @@ class ConsoleLogger(Logger):
 
 
 def say_hello(l: Logger):
-    l.write('Hello form KeyLogger!!')
+    l.write('Hello form KeyLogger!!!!!')
 
 
 is_debug = False
